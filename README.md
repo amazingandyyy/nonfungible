@@ -21,6 +21,7 @@ All files         |    87.72 |    86.36 |    77.78 |    89.06 |                |
 ```
 git clone https://github.com/amazingandyyy/nonfungible.git
 yarn
+cp .env.example .env
 ```
 
 ## Development
