@@ -1,7 +1,7 @@
 {
-  "name": "smart-contract-dev",
+  "name": "nonfungible",
   "version": "1.0.0",
-  "description": "smart contract development environment made easy",
+  "description": "A weekend project - working NFT marketplace with testing",
   "scripts": {
     "compile": "hardhat compile",
     "test": "yarn test:local",

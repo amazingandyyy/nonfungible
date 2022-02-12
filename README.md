@@ -93,6 +93,10 @@ Then, copy the deployment address and paste it in to replace `DEPLOYED_CONTRACT_
 npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS "Hello, Hardhat!"
 ```
 
+## License
+
+MIT
+
 ## References
 
 - [Hardhat](https://hardhat.org/guides/project-setup.html)
