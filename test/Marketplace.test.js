@@ -11,9 +11,11 @@ describe('Marketplace', function () {
   let marketplace;
   let NFT;
   let nft;
+  // eslint-disable-next-line no-unused-vars
   let owner;
   let user1;
   let user2;
+  // eslint-disable-next-line no-unused-vars
   let users;
   const nft1Price = ether(nft1PriceInNumber);
   const nft2Price = ether(nft2PriceInNumber);
