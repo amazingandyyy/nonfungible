@@ -6,7 +6,7 @@
     "compile": "hardhat compile",
     "test": "yarn test:local",
     "lint": "eslint ./test",
-    "test:local": "hardhat test:jest --network localhost",
+    "test:local": "hardhat test --network localhost",
     "deploy": "hardhat run scripts/deploy.js",
     "node:local": "hardhat node",
     "prepare": "husky install"
